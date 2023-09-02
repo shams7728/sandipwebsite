@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "sandip university website",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
